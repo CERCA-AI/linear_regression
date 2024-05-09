@@ -1,0 +1,2 @@
+# linear_regression
+RETO PROYECTO REGRESIÓN LINEAL AI
